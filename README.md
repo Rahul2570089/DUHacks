@@ -10,5 +10,6 @@
   <img src="Screenshots\Confirmation.jpeg" width=190/>
   <img src="Screenshots\Sidebar.jpeg" width=190/>
   <img src="Screenshots\IssuedBooks.jpeg" width=190/>
-  <img src="Screenshots\Sharks profile page (Light mode).jpg" width=190/>
+  <img src="Screenshots\CancelIssuedBook.jpeg" width=190/>
+  <img src="Screenshots\IssuedBookspageafterremove.jpeg" width=190/>
 </p>
