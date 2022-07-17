@@ -1,12 +1,12 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:librarybookissue/databsae/Database.dart';
-import 'package:librarybookissue/models/Helper.dart';
+import 'package:librarybookissue/databsae/database.dart';
+import 'package:librarybookissue/models/helper.dart';
 import 'package:librarybookissue/models/constants.dart';
 import 'package:marquee/marquee.dart';
 
-import 'models/Article.dart';
+import 'models/article.dart';
 
 // ignore: must_be_immutable
 class IssuedBooks extends StatefulWidget {

@@ -1,10 +1,10 @@
 // ignore_for_file: prefer_const_constructors_in_immutables, use_key_in_widget_constructors
 
 import 'package:flutter/material.dart';
-import 'package:librarybookissue/Mainscreen.dart';
+import 'package:librarybookissue/mainscreen.dart';
 import 'package:librarybookissue/auth/auth.dart';
-import 'package:librarybookissue/databsae/Database.dart';
-import 'package:librarybookissue/models/Helper.dart';
+import 'package:librarybookissue/databsae/database.dart';
+import 'package:librarybookissue/models/helper.dart';
 import 'package:librarybookissue/models/constants.dart';
 
 class SignUp extends StatefulWidget {

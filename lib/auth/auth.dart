@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:librarybookissue/models/User.dart';
+import 'package:librarybookissue/models/user.dart';
 
 class AuthMethod {
 

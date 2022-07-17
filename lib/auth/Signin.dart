@@ -1,5 +1,3 @@
-// ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors_in_immutables
-
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
@@ -11,7 +9,7 @@ import 'package:librarybookissue/models/constants.dart';
 
 class SignIn extends StatefulWidget {
   final Function toggle;
-  SignIn(this.toggle);
+  const SignIn(this.toggle, {Key? key}) : super(key: key);
 
   @override
   State<SignIn> createState() => _SignInState();

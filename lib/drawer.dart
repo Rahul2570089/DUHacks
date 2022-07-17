@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:librarybookissue/IssuedBooks.dart';
+import 'package:librarybookissue/issuedBooks.dart';
 import 'package:librarybookissue/auth/Authenticate.dart';
 import 'package:librarybookissue/auth/auth.dart';
-import 'package:librarybookissue/models/Helper.dart';
+import 'package:librarybookissue/models/helper.dart';
 
 
 // ignore: camel_case_types, must_be_immutable

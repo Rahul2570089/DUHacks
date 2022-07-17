@@ -1,11 +1,11 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:librarybookissue/databsae/Database.dart';
+import 'package:librarybookissue/databsae/database.dart';
 import 'package:librarybookissue/drawer.dart';
-import 'package:librarybookissue/models/Article.dart';
+import 'package:librarybookissue/models/article.dart';
 import 'package:http/http.dart' as http;
-import 'package:librarybookissue/models/Helper.dart';
+import 'package:librarybookissue/models/helper.dart';
 import 'package:marquee/marquee.dart';
 import 'dart:convert';
 import 'package:librarybookissue/models/constants.dart';
