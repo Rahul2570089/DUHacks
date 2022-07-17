@@ -1,4 +1,4 @@
-# Library Management App
+# <p align="center">Library Management App</p>
 
 ## <p align="center">Screenshots</p>
 
