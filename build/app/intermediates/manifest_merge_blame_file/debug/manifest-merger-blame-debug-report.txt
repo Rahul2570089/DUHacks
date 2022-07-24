@@ -34,7 +34,7 @@
 23-->[androidx.core:core:1.6.0] C:\Users\rahul\.gradle\caches\transforms-3\aa701b47cec244085d46a1a42fcc7fb9\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 24        android:debuggable="true"
 25        android:icon="@mipmap/ic_launcher"
-26        android:label="librarybookissue" >
+26        android:label="Library Book issue online app" >
 27        <activity
 28            android:name="com.example.librarybookissue.MainActivity"
 29            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:librarybookissue/auth/SignIn.dart';
-import 'package:librarybookissue/auth/Signup.dart';
+import 'package:librarybookissue/auth/sign_in.dart';
+import 'package:librarybookissue/auth/sign_up.dart';
 
 class Authenticate extends StatefulWidget {
   const Authenticate({ Key? key }) : super(key: key);

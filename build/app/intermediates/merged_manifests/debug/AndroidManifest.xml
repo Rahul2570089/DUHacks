@@ -23,7 +23,7 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="librarybookissue" >
+        android:label="Library Book issue online app" >
         <activity
             android:name="com.example.librarybookissue.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"

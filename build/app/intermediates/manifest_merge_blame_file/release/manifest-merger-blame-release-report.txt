@@ -33,8 +33,8 @@
 19-->[androidx.core:core:1.6.0] C:\Users\rahul\.gradle\caches\transforms-3\aa701b47cec244085d46a1a42fcc7fb9\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 20        android:icon="@mipmap/ic_launcher"
 20-->C:\flutter\librarybookissue\android\app\src\main\AndroidManifest.xml:7:9-43
-21        android:label="librarybookissue" >
-21-->C:\flutter\librarybookissue\android\app\src\main\AndroidManifest.xml:5:9-41
+21        android:label="Library Book issue online app" >
+21-->C:\flutter\librarybookissue\android\app\src\main\AndroidManifest.xml:5:9-54
 22        <activity
 22-->C:\flutter\librarybookissue\android\app\src\main\AndroidManifest.xml:8:9-28:20
 23            android:name="com.example.librarybookissue.MainActivity"
